@@ -28,7 +28,6 @@
 
 ```bash
 git clone https://github.com/your-username/react-cat-gallery.git
-cd react-cat-gallery
 npm install
 npm run dev
 ```
